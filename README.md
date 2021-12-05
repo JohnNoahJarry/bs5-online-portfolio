@@ -1,3 +1,3 @@
-# bs5-online-portfolio
+# bs5-personal-website
 
-Online portfolio using BootStrap 5.
+Personal website hosted in Github Pages using BootStrap 5.
